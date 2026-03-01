@@ -1,0 +1,16 @@
+Definição de Projeto de Banco de dados:
+Um projeto de banco de dados é o processo de planejamento e organização das informações que serão
+armazenadas em um sistema, definindo como os dados serão estruturados, relacionados e acessados de
+forma eficiente e segura. Ele envolve a análise das necessidades do sistema ou da empresa, a definição das
+entidades, atributos e relacionamentos, a criação do modelo conceitual e lógico e, por fim, a implementação
+no sistema gerenciador de banco de dados. O objetivo principal é garantir que os dados sejam armazenados
+de maneira organizada, evitando redundâncias, inconsistências e falhas, além de facilitar consultas,
+atualizações e manutenção ao longo do tempo.
+
+Definição de sistema de Banco de Dados:
+Um sistema de banco de dados é o conjunto formado pelo banco de dados, pelo sistema gerenciador de
+banco de dados (SGBD) e pelos usuários ou aplicações que interagem com ele, com a finalidade de
+armazenar, organizar, gerenciar e recuperar informações de maneira eficiente e segura. Ele permite controlar
+o acesso aos dados, evitar redundâncias, manter a integridade das informações e facilitar operações como
+consultas, inserções, alterações e exclusões, garantindo que os dados estejam disponíveis e consistentes
+para atender às necessidades de uma organização ou sistema.
